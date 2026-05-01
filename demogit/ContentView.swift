@@ -10,10 +10,14 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "heat.fill")
+            Image(systemName: "heart.fill")
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
             Text("Swiftful things")
+            
+            Button("click me"){
+                
+            }
         }
         .padding()
     }
