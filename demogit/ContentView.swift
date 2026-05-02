@@ -39,7 +39,7 @@ struct ContentView: View {
                 
             }
             
-            Button("Subscribe"){
+            Button("Subscribe now"){
                 
             }
             
